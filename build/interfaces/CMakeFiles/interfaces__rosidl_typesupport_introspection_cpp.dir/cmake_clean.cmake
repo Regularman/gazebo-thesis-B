@@ -1,0 +1,33 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/msg/detail/control_applied__type_support.cpp.o"
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/msg/detail/control_applied__type_support.cpp.o.d"
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/msg/detail/elrs_command__type_support.cpp.o"
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/msg/detail/elrs_command__type_support.cpp.o.d"
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/msg/detail/inverted_pendulum_states__type_support.cpp.o"
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/msg/detail/inverted_pendulum_states__type_support.cpp.o.d"
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/msg/detail/motion_capture_state__type_support.cpp.o"
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/msg/detail/motion_capture_state__type_support.cpp.o.d"
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/msg/detail/telemetry__type_support.cpp.o"
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/msg/detail/telemetry__type_support.cpp.o.d"
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/srv/detail/set_arming__type_support.cpp.o"
+  "CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/srv/detail/set_arming__type_support.cpp.o.d"
+  "libinterfaces__rosidl_typesupport_introspection_cpp.pdb"
+  "libinterfaces__rosidl_typesupport_introspection_cpp.so"
+  "rosidl_typesupport_introspection_cpp/interfaces/msg/detail/control_applied__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/interfaces/msg/detail/control_applied__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/interfaces/msg/detail/elrs_command__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/interfaces/msg/detail/elrs_command__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/interfaces/msg/detail/inverted_pendulum_states__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/interfaces/msg/detail/inverted_pendulum_states__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/interfaces/msg/detail/motion_capture_state__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/interfaces/msg/detail/motion_capture_state__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/interfaces/msg/detail/telemetry__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/interfaces/msg/detail/telemetry__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/interfaces/srv/detail/set_arming__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/interfaces/srv/detail/set_arming__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+controller_mpc/__init__.py
+controller_mpc/acados.py
+controller_mpc/dynamics.py
+controller_mpc/main.py
+controller_mpc/trajectories.py
+controller_mpc.egg-info/PKG-INFO
+controller_mpc.egg-info/SOURCES.txt
+controller_mpc.egg-info/dependency_links.txt
+controller_mpc.egg-info/entry_points.txt
+controller_mpc.egg-info/requires.txt
+controller_mpc.egg-info/top_level.txt
+controller_mpc.egg-info/zip-safe
+resource/controller_mpc

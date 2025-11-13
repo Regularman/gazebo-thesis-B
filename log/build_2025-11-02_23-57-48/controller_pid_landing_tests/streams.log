@@ -1,0 +1,24 @@
+[1.554s] Invoking command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_pid_landing_tests': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_pid_landing_tests/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_pid_landing_tests/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_pid_landing_tests/build --no-deps symlink_data
+[1.686s] running develop
+[1.782s] running egg_info
+[1.782s] creating controller_pid_landing_tests.egg-info
+[1.783s] writing controller_pid_landing_tests.egg-info/PKG-INFO
+[1.783s] writing dependency_links to controller_pid_landing_tests.egg-info/dependency_links.txt
+[1.783s] writing entry points to controller_pid_landing_tests.egg-info/entry_points.txt
+[1.783s] writing requirements to controller_pid_landing_tests.egg-info/requires.txt
+[1.783s] writing top-level names to controller_pid_landing_tests.egg-info/top_level.txt
+[1.783s] writing manifest file 'controller_pid_landing_tests.egg-info/SOURCES.txt'
+[1.784s] reading manifest file 'controller_pid_landing_tests.egg-info/SOURCES.txt'
+[1.785s] writing manifest file 'controller_pid_landing_tests.egg-info/SOURCES.txt'
+[1.787s] running build_ext
+[1.788s] Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_pid_landing_tests/lib/python3.10/site-packages/controller-pid-landing-tests.egg-link (link to .)
+[1.788s] Installing main script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_pid_landing_tests/lib/controller_pid_landing_tests
+[1.788s] 
+[1.788s] Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_pid_landing_tests
+[1.788s] running symlink_data
+[1.788s] creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_pid_landing_tests/share/ament_index
+[1.788s] creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_pid_landing_tests/share/ament_index/resource_index
+[1.788s] creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_pid_landing_tests/share/ament_index/resource_index/packages
+[1.788s] symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_pid_landing_tests/resource/controller_pid_landing_tests -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_pid_landing_tests/share/ament_index/resource_index/packages
+[1.788s] symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_pid_landing_tests/package.xml -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_pid_landing_tests/share/controller_pid_landing_tests
+[1.813s] Invoked command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_pid_landing_tests' returned '0': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_pid_landing_tests/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_pid_landing_tests/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_pid_landing_tests/build --no-deps symlink_data

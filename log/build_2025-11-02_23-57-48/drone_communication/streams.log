@@ -1,0 +1,28 @@
+[1.519s] Invoking command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/drone_communication': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/drone_communication/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/drone_communication/build --no-deps symlink_data
+[1.738s] running develop
+[1.900s] running egg_info
+[1.900s] creating drone_communication.egg-info
+[1.903s] writing drone_communication.egg-info/PKG-INFO
+[1.903s] writing dependency_links to drone_communication.egg-info/dependency_links.txt
+[1.903s] writing entry points to drone_communication.egg-info/entry_points.txt
+[1.903s] writing requirements to drone_communication.egg-info/requires.txt
+[1.903s] writing top-level names to drone_communication.egg-info/top_level.txt
+[1.903s] writing manifest file 'drone_communication.egg-info/SOURCES.txt'
+[1.903s] reading manifest file 'drone_communication.egg-info/SOURCES.txt'
+[1.903s] writing manifest file 'drone_communication.egg-info/SOURCES.txt'
+[1.904s] running build_ext
+[1.905s] Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/lib/python3.10/site-packages/drone-communication.egg-link (link to .)
+[1.905s] Installing elrs_interface script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/lib/drone_communication
+[1.906s] Installing motion_capture_publisher_node script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/lib/drone_communication
+[1.906s] Installing video_interface script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/lib/drone_communication
+[1.906s] 
+[1.906s] Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/drone_communication
+[1.906s] running symlink_data
+[1.906s] creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/share/ament_index
+[1.906s] creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/share/ament_index/resource_index
+[1.906s] creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/share/ament_index/resource_index/packages
+[1.906s] symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/drone_communication/resource/drone_communication -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/share/ament_index/resource_index/packages
+[1.906s] symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/drone_communication/package.xml -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/share/drone_communication
+[1.906s] creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/share/drone_communication/launch
+[1.906s] symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/drone_communication/launch/quad_launch.py -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/share/drone_communication/launch
+[1.937s] Invoked command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/drone_communication' returned '0': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/drone_communication/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/drone_communication/build --no-deps symlink_data

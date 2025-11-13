@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+controller_inv_pen/__init__.py
+controller_inv_pen/acados.py
+controller_inv_pen/dynamics.py
+controller_inv_pen/gui.py
+controller_inv_pen/main.py
+controller_inv_pen.egg-info/PKG-INFO
+controller_inv_pen.egg-info/SOURCES.txt
+controller_inv_pen.egg-info/dependency_links.txt
+controller_inv_pen.egg-info/entry_points.txt
+controller_inv_pen.egg-info/requires.txt
+controller_inv_pen.egg-info/top_level.txt
+controller_inv_pen.egg-info/zip-safe
+resource/controller_inv_pen

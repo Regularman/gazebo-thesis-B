@@ -1,0 +1,30 @@
+[ 25%] [34m[1mAutomatic MOC for target drone_visualisation_plugins[0m
+[ 25%] Built target drone_visualisation_plugins_autogen
+[35m[1mConsolidate compiler generated dependencies of target drone_visualisation_plugins[0m
+[100%] Built target drone_visualisation_plugins
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation//plugin_description.xml
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/launch/view_frame.launch.py
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/urdf/frame.urdf
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/meshes/tbs_sourceone_v5.stl
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/rviz/default.rviz
+-- Symlinking: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/ament_index/resource_index/packages/drone_visualisation
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/package.xml
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/ament_index/resource_index/package_run_dependencies/drone_visualisation
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/ament_index/resource_index/parent_prefix_path/drone_visualisation
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/environment/path.sh
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/environment/path.dsv
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/local_setup.bash
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/local_setup.sh
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/local_setup.zsh
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/local_setup.dsv
+-- Symlinking: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/package.dsv
+-- Symlinking: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/ament_index/resource_index/packages/drone_visualisation
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/ament_index/resource_index/rviz_common__pluginlib__plugin/drone_visualisation
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/cmake/drone_visualisationConfig.cmake
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/cmake/drone_visualisationConfig-version.cmake
+-- Up-to-date symlink: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/share/drone_visualisation/package.xml
+-- Up-to-date: /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_visualisation/lib/libdrone_visualisation_plugins.so

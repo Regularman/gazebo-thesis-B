@@ -1,0 +1,18 @@
+[1.699s] Invoking command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_ukf': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_ukf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_ukf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_ukf/build --no-deps symlink_data
+[1.885s] running develop
+[1.969s] running egg_info
+[1.969s] writing controller_ukf.egg-info/PKG-INFO
+[1.969s] writing dependency_links to controller_ukf.egg-info/dependency_links.txt
+[1.969s] writing entry points to controller_ukf.egg-info/entry_points.txt
+[1.969s] writing requirements to controller_ukf.egg-info/requires.txt
+[1.969s] writing top-level names to controller_ukf.egg-info/top_level.txt
+[1.970s] reading manifest file 'controller_ukf.egg-info/SOURCES.txt'
+[1.970s] writing manifest file 'controller_ukf.egg-info/SOURCES.txt'
+[1.971s] running build_ext
+[1.971s] Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_ukf/lib/python3.10/site-packages/controller-ukf.egg-link (link to .)
+[1.972s] Installing delay_estimator_node script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_ukf/lib/controller_ukf
+[1.972s] Installing main script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_ukf/lib/controller_ukf
+[1.972s] 
+[1.972s] Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_ukf
+[1.972s] running symlink_data
+[1.989s] Invoked command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_ukf' returned '0': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_ukf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_ukf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_ukf/build --no-deps symlink_data

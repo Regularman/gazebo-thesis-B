@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating utility_objects.egg-info
+writing utility_objects.egg-info/PKG-INFO
+writing dependency_links to utility_objects.egg-info/dependency_links.txt
+writing requirements to utility_objects.egg-info/requires.txt
+writing top-level names to utility_objects.egg-info/top_level.txt
+writing manifest file 'utility_objects.egg-info/SOURCES.txt'
+reading manifest file 'utility_objects.egg-info/SOURCES.txt'
+writing manifest file 'utility_objects.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/utility_objects/lib/python3.10/site-packages/utility-objects.egg-link (link to .)
+
+Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/utility_objects
+running symlink_data
+creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/utility_objects/share/ament_index
+creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/utility_objects/share/ament_index/resource_index
+creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/utility_objects/share/ament_index/resource_index/packages
+symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/utility_objects/resource/utility_objects -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/utility_objects/share/ament_index/resource_index/packages
+symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/utility_objects/package.xml -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/utility_objects/share/utility_objects

@@ -1,0 +1,17 @@
+[1.614s] Invoking command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_omnicopter': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_omnicopter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_omnicopter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_omnicopter/build --no-deps symlink_data
+[1.744s] running develop
+[1.867s] running egg_info
+[1.867s] writing controller_omnicopter.egg-info/PKG-INFO
+[1.868s] writing dependency_links to controller_omnicopter.egg-info/dependency_links.txt
+[1.868s] writing entry points to controller_omnicopter.egg-info/entry_points.txt
+[1.868s] writing requirements to controller_omnicopter.egg-info/requires.txt
+[1.868s] writing top-level names to controller_omnicopter.egg-info/top_level.txt
+[1.870s] reading manifest file 'controller_omnicopter.egg-info/SOURCES.txt'
+[1.871s] writing manifest file 'controller_omnicopter.egg-info/SOURCES.txt'
+[1.871s] running build_ext
+[1.871s] Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_omnicopter/lib/python3.10/site-packages/controller-omnicopter.egg-link (link to .)
+[1.872s] Installing main script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_omnicopter/lib/controller_omnicopter
+[1.872s] 
+[1.872s] Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_omnicopter
+[1.872s] running symlink_data
+[1.891s] Invoked command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_omnicopter' returned '0': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_omnicopter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_omnicopter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_omnicopter/build --no-deps symlink_data

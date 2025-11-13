@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing controller_omnicopter.egg-info/PKG-INFO
+writing dependency_links to controller_omnicopter.egg-info/dependency_links.txt
+writing entry points to controller_omnicopter.egg-info/entry_points.txt
+writing requirements to controller_omnicopter.egg-info/requires.txt
+writing top-level names to controller_omnicopter.egg-info/top_level.txt
+reading manifest file 'controller_omnicopter.egg-info/SOURCES.txt'
+writing manifest file 'controller_omnicopter.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_omnicopter/lib/python3.10/site-packages/controller-omnicopter.egg-link (link to .)
+Installing main script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_omnicopter/lib/controller_omnicopter
+
+Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_omnicopter
+running symlink_data

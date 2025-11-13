@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+drone_communication/__init__.py
+drone_communication/elrs_interface.py
+drone_communication/motion_capture_publisher_node.py
+drone_communication/video_interface.py
+drone_communication.egg-info/PKG-INFO
+drone_communication.egg-info/SOURCES.txt
+drone_communication.egg-info/dependency_links.txt
+drone_communication.egg-info/entry_points.txt
+drone_communication.egg-info/requires.txt
+drone_communication.egg-info/top_level.txt
+drone_communication.egg-info/zip-safe
+launch/quad_launch.py
+resource/drone_communication

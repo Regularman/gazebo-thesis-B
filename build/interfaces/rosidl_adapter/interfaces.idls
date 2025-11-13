@@ -1,0 +1,6 @@
+/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces/rosidl_adapter/interfaces:msg/MotionCaptureState.idl
+/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces/rosidl_adapter/interfaces:msg/ELRSCommand.idl
+/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces/rosidl_adapter/interfaces:msg/Telemetry.idl
+/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces/rosidl_adapter/interfaces:msg/InvertedPendulumStates.idl
+/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces/rosidl_adapter/interfaces:msg/ControlApplied.idl
+/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces/rosidl_adapter/interfaces:srv/SetArming.idl

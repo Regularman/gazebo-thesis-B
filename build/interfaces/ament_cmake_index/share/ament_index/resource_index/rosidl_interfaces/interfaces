@@ -1,0 +1,14 @@
+msg/ControlApplied.idl
+msg/ControlApplied.msg
+msg/ELRSCommand.idl
+msg/ELRSCommand.msg
+msg/InvertedPendulumStates.idl
+msg/InvertedPendulumStates.msg
+msg/MotionCaptureState.idl
+msg/MotionCaptureState.msg
+msg/Telemetry.idl
+msg/Telemetry.msg
+srv/SetArming.idl
+srv/SetArming.srv
+srv/SetArming_Request.msg
+srv/SetArming_Response.msg

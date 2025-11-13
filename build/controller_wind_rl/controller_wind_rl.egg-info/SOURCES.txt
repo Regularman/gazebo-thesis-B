@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+controller_wind_rl/__init__.py
+controller_wind_rl/main.py
+controller_wind_rl/trajectories.py
+controller_wind_rl/wind_estimator.py
+controller_wind_rl.egg-info/PKG-INFO
+controller_wind_rl.egg-info/SOURCES.txt
+controller_wind_rl.egg-info/dependency_links.txt
+controller_wind_rl.egg-info/entry_points.txt
+controller_wind_rl.egg-info/requires.txt
+controller_wind_rl.egg-info/top_level.txt
+controller_wind_rl.egg-info/zip-safe
+resource/controller_wind_rl

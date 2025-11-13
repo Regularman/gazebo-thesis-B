@@ -1,0 +1,4 @@
+Invoking command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces -- -j28 -l28
+Invoked command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces -- -j28 -l28
+Invoking command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces
+Invoked command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/interfaces

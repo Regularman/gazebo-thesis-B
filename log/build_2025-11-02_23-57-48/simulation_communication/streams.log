@@ -1,0 +1,32 @@
+[1.528s] Invoking command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/build --no-deps symlink_data
+[1.665s] running develop
+[1.759s] running egg_info
+[1.759s] creating simulation_communication.egg-info
+[1.759s] writing simulation_communication.egg-info/PKG-INFO
+[1.759s] writing dependency_links to simulation_communication.egg-info/dependency_links.txt
+[1.759s] writing entry points to simulation_communication.egg-info/entry_points.txt
+[1.759s] writing requirements to simulation_communication.egg-info/requires.txt
+[1.759s] writing top-level names to simulation_communication.egg-info/top_level.txt
+[1.759s] writing manifest file 'simulation_communication.egg-info/SOURCES.txt'
+[1.760s] reading manifest file 'simulation_communication.egg-info/SOURCES.txt'
+[1.760s] writing manifest file 'simulation_communication.egg-info/SOURCES.txt'
+[1.761s] running build_ext
+[1.761s] Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/python3.10/site-packages/simulation-communication.egg-link (link to .)
+[1.763s] Installing ELRS_pass_through script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/simulation_communication
+[1.763s] Installing betaflight_communication script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/simulation_communication
+[1.763s] Installing motion_capture_emulator script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/simulation_communication
+[1.763s] Installing orbslam_emulator script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/simulation_communication
+[1.763s] Installing pendulum_state_listener script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/simulation_communication
+[1.763s] 
+[1.763s] Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication
+[1.763s] running symlink_data
+[1.763s] creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/ament_index
+[1.763s] creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/ament_index/resource_index
+[1.763s] creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/ament_index/resource_index/packages
+[1.763s] symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/resource/simulation_communication -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/ament_index/resource_index/packages
+[1.763s] symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/package.xml -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/simulation_communication
+[1.763s] creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/simulation_communication/launch
+[1.763s] symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/launch/betaflight_linear_simulation_launch.py -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/simulation_communication/launch
+[1.763s] symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/launch/betaflight_simulation_launch.py -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/simulation_communication/launch
+[1.764s] symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/launch/omnicopter_simulation_launch.py -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/simulation_communication/launch
+[1.789s] Invoked command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication' returned '0': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/build --no-deps symlink_data

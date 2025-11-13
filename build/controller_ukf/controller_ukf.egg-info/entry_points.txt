@@ -1,0 +1,4 @@
+[console_scripts]
+delay_estimator_node = controller_ukf.delay_estimator_node:main
+main = controller_ukf.main:main
+

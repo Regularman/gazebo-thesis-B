@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing controller_pid_landing_tests.egg-info/PKG-INFO
+writing dependency_links to controller_pid_landing_tests.egg-info/dependency_links.txt
+writing entry points to controller_pid_landing_tests.egg-info/entry_points.txt
+writing requirements to controller_pid_landing_tests.egg-info/requires.txt
+writing top-level names to controller_pid_landing_tests.egg-info/top_level.txt
+reading manifest file 'controller_pid_landing_tests.egg-info/SOURCES.txt'
+writing manifest file 'controller_pid_landing_tests.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_pid_landing_tests/lib/python3.10/site-packages/controller-pid-landing-tests.egg-link (link to .)
+Installing main script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_pid_landing_tests/lib/controller_pid_landing_tests
+
+Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_pid_landing_tests
+running symlink_data

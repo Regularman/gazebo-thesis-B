@@ -1,0 +1,24 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from interfaces/msg/ControlApplied.msg
+// generated code does not contain a copyright notice
+
+#include "builtin_interfaces/msg/Time.idl"
+
+module interfaces {
+  module msg {
+    typedef float float__13[13];
+    typedef float float__4[4];
+    typedef float float__6[6];
+    struct ControlApplied {
+      builtin_interfaces::msg::Time stamp;
+
+      float__13 pose;
+
+      float__4 u;
+
+      float__4 u_rate;
+
+      float__6 est_params;
+    };
+  };
+};

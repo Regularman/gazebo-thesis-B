@@ -1,0 +1,30 @@
+running develop
+running egg_info
+creating simulation_communication.egg-info
+writing simulation_communication.egg-info/PKG-INFO
+writing dependency_links to simulation_communication.egg-info/dependency_links.txt
+writing entry points to simulation_communication.egg-info/entry_points.txt
+writing requirements to simulation_communication.egg-info/requires.txt
+writing top-level names to simulation_communication.egg-info/top_level.txt
+writing manifest file 'simulation_communication.egg-info/SOURCES.txt'
+reading manifest file 'simulation_communication.egg-info/SOURCES.txt'
+writing manifest file 'simulation_communication.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/python3.10/site-packages/simulation-communication.egg-link (link to .)
+Installing ELRS_pass_through script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/simulation_communication
+Installing betaflight_communication script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/simulation_communication
+Installing motion_capture_emulator script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/simulation_communication
+Installing orbslam_emulator script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/simulation_communication
+Installing pendulum_state_listener script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/lib/simulation_communication
+
+Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication
+running symlink_data
+creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/ament_index
+creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/ament_index/resource_index
+creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/ament_index/resource_index/packages
+symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/resource/simulation_communication -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/ament_index/resource_index/packages
+symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/package.xml -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/simulation_communication
+creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/simulation_communication/launch
+symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/launch/betaflight_linear_simulation_launch.py -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/simulation_communication/launch
+symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/launch/betaflight_simulation_launch.py -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/simulation_communication/launch
+symbolically linking /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/simulation_communication/launch/omnicopter_simulation_launch.py -> /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/simulation_communication/share/simulation_communication/launch

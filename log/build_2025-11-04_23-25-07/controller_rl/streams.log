@@ -1,0 +1,17 @@
+[1.700s] Invoking command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_rl': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_rl/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_rl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_rl/build --no-deps symlink_data
+[1.848s] running develop
+[1.932s] running egg_info
+[1.933s] writing controller_rl.egg-info/PKG-INFO
+[1.933s] writing dependency_links to controller_rl.egg-info/dependency_links.txt
+[1.933s] writing entry points to controller_rl.egg-info/entry_points.txt
+[1.933s] writing requirements to controller_rl.egg-info/requires.txt
+[1.933s] writing top-level names to controller_rl.egg-info/top_level.txt
+[1.934s] reading manifest file 'controller_rl.egg-info/SOURCES.txt'
+[1.934s] writing manifest file 'controller_rl.egg-info/SOURCES.txt'
+[1.935s] running build_ext
+[1.935s] Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_rl/lib/python3.10/site-packages/controller-rl.egg-link (link to .)
+[1.935s] Installing main script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_rl/lib/controller_rl
+[1.935s] 
+[1.935s] Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_rl
+[1.935s] running symlink_data
+[1.951s] Invoked command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_rl' returned '0': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_rl/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_rl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_rl/build --no-deps symlink_data

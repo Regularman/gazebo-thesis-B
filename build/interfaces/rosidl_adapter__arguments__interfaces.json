@@ -1,0 +1,11 @@
+{
+  "package_name": "interfaces",
+  "non_idl_tuples": [
+    "/home/rovteam/Desktop/Melvin/drone_cage_control-main/src/interfaces:msg/MotionCaptureState.msg",
+    "/home/rovteam/Desktop/Melvin/drone_cage_control-main/src/interfaces:msg/ELRSCommand.msg",
+    "/home/rovteam/Desktop/Melvin/drone_cage_control-main/src/interfaces:msg/Telemetry.msg",
+    "/home/rovteam/Desktop/Melvin/drone_cage_control-main/src/interfaces:msg/InvertedPendulumStates.msg",
+    "/home/rovteam/Desktop/Melvin/drone_cage_control-main/src/interfaces:msg/ControlApplied.msg",
+    "/home/rovteam/Desktop/Melvin/drone_cage_control-main/src/interfaces:srv/SetArming.srv"
+  ]
+}

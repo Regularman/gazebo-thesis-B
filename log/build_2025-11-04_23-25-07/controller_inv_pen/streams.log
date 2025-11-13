@@ -1,0 +1,17 @@
+[1.614s] Invoking command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_inv_pen': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_inv_pen/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_inv_pen/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_inv_pen/build --no-deps symlink_data
+[1.738s] running develop
+[1.819s] running egg_info
+[1.820s] writing controller_inv_pen.egg-info/PKG-INFO
+[1.820s] writing dependency_links to controller_inv_pen.egg-info/dependency_links.txt
+[1.820s] writing entry points to controller_inv_pen.egg-info/entry_points.txt
+[1.820s] writing requirements to controller_inv_pen.egg-info/requires.txt
+[1.820s] writing top-level names to controller_inv_pen.egg-info/top_level.txt
+[1.821s] reading manifest file 'controller_inv_pen.egg-info/SOURCES.txt'
+[1.821s] writing manifest file 'controller_inv_pen.egg-info/SOURCES.txt'
+[1.822s] running build_ext
+[1.822s] Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_inv_pen/lib/python3.10/site-packages/controller-inv-pen.egg-link (link to .)
+[1.823s] Installing main script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_inv_pen/lib/controller_inv_pen
+[1.823s] 
+[1.823s] Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_inv_pen
+[1.823s] running symlink_data
+[1.843s] Invoked command in '/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_inv_pen' returned '0': PYTHONPATH=/home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_inv_pen/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rovteam/Desktop/Melvin/drone_cage_control-main/install/controller_inv_pen/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/controller_inv_pen/build --no-deps symlink_data

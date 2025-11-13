@@ -1,0 +1,27 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/SetArming.srv
+// generated code does not contain a copyright notice
+
+
+module interfaces {
+  module srv {
+    @verbatim (language="comment", text=
+      "Request")
+    struct SetArming_Request {
+      @verbatim (language="comment", text=
+        "true to arm, false to disarm")
+      boolean arm;
+    };
+    @verbatim (language="comment", text=
+      "Response")
+    struct SetArming_Response {
+      @verbatim (language="comment", text=
+        "true if the command was accepted")
+      boolean success;
+
+      @verbatim (language="comment", text=
+        "optional status message")
+      string message;
+    };
+  };
+};

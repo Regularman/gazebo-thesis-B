@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing drone_communication.egg-info/PKG-INFO
+writing dependency_links to drone_communication.egg-info/dependency_links.txt
+writing entry points to drone_communication.egg-info/entry_points.txt
+writing requirements to drone_communication.egg-info/requires.txt
+writing top-level names to drone_communication.egg-info/top_level.txt
+reading manifest file 'drone_communication.egg-info/SOURCES.txt'
+writing manifest file 'drone_communication.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/lib/python3.10/site-packages/drone-communication.egg-link (link to .)
+Installing elrs_interface script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/lib/drone_communication
+Installing motion_capture_publisher_node script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/lib/drone_communication
+Installing video_interface script to /home/rovteam/Desktop/Melvin/drone_cage_control-main/install/drone_communication/lib/drone_communication
+
+Installed /home/rovteam/Desktop/Melvin/drone_cage_control-main/build/drone_communication
+running symlink_data
